@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HCRJeewantha
-- 👀 I’m interested in full-stack developing, I.O.T, Robotics and Machine Learning  
-- 🌱 I’m currently learning python, nodejs, angular, laravel and ionic
+- 👀 I’m interested in full-stack developing, I.O.T, Robotics and Machine Learning, Image Processing, Audio Signal Processing
+- 🌱 I’m currently learning python, nodejs, angular, React, laravel and ionic
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : linkedin : https://www.linkedin.com/in/ravindu-jeewantha-498811160
 
